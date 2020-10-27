@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T10:45:12.895Z" agent="5.0 (Windows)" etag="vnmUiY44qo7cV46BAv8o" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T10:47:00.824Z" agent="5.0 (Windows)" etag="bkpuvC7CR2khS68VfBez" version="13.8.0" type="github">
   <diagram id="5wFb42KJ5PKaCk3uTV55" name="Page-1">
     <mxGraphModel dx="2009" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,18 @@
         </mxCell>
         <mxCell id="L2-Vo68bgr4guMSWAp2Q-4" value="+ Date : dateImport&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="L2-Vo68bgr4guMSWAp2Q-1">
           <mxGeometry y="78" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="L2-Vo68bgr4guMSWAp2Q-6" value="&#xa;&lt;&lt;Enitiy&gt;&gt;&#xa;IndicateurProduction&#xa;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="L2-Vo68bgr4guMSWAp2Q-7" value="+ Long : id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="L2-Vo68bgr4guMSWAp2Q-6">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="L2-Vo68bgr4guMSWAp2Q-10" value="&#xa;&lt;&lt;Enitiy&gt;&gt;&#xa;EtatInjestionDonnees&#xa;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="L2-Vo68bgr4guMSWAp2Q-11" value="+ Long : id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="L2-Vo68bgr4guMSWAp2Q-10">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
