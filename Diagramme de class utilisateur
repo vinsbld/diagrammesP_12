@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T10:17:34.902Z" agent="5.0 (Windows)" etag="pEsGy-Qtar9T-6bnFSBz" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T10:17:59.138Z" agent="5.0 (Windows)" etag="thwQuyq9ANDo6QdpPSp_" version="13.8.0" type="github">
   <diagram id="no_ibicwNvn-EakVbCGM" name="Page-1">
     <mxGraphModel dx="985" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         </mxCell>
         <mxCell id="qgjaRaHqDy0XziNMuS3d-14" value="Assigné" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="qgjaRaHqDy0XziNMuS3d-13">
           <mxGeometry x="-0.2083" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="16.67" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qgjaRaHqDy0XziNMuS3d-15" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="qgjaRaHqDy0XziNMuS3d-13">
